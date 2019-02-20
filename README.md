@@ -1,6 +1,6 @@
 # Warranties
 
-A collection of warranties for statistical software. It's purpose is to demostrate that R's warrenty is similar to
+A collection of warranties for statistical software. It's purpose is to demostrate that R's warranty is similar to
 other statistical software. Feel free to contribute if anything is missing or incorrect.
 
 ## R
